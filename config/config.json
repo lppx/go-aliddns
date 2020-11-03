@@ -1,0 +1,10 @@
+{
+  "ali": {
+    "accessId": "xx",
+    "accessKey": "xx",
+    "mainDomain": "tomeet.top",
+    "subDomain": "houge",
+    "timeStep": 10
+  }
+}
+
